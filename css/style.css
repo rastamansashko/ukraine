@@ -21,7 +21,7 @@ a {
 
 section#home {
 	background-image: url("../images/0.jpg");
-	background-size: 60%;
+	background-size: cover;
 	/*background-color: red;*/
 }
 
